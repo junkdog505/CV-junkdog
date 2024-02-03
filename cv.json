@@ -1,12 +1,12 @@
 {
     "basics": {
       "name": "Edison Cristian Amézquita Soto",
-      "label": "Estudiante de Ingeniería de Sistemas en la Universidad Católica de Santa María | Apasionado por la Programación & Entusiasta del Desarrollo Full Stack",
+      "label": "Ingeniero de Sistemas",
       "image": "/me.webp",
       "email": "dev.junkdog@gmail.com",
       "phone": "+51 965915252",
       "url": "https://junkdog.dev",
-      "summary": "Residente en Arequipa, Perú. Actualmente cursando el cuarto año de Ingeniería de Sistemas en la Universidad Católica de Santa María. Me destaco por mi participación en concursos universitarios, donde he innovado y aplicado tecnologías novedosas, como el desarrollo de un chatbot utilizando ChatGPT y una aplicación móvil para el aprendizaje del Braille.",
+      "summary": "Soy un estudiante de Ingeniería de Sistemas, con un sólido historial académico, habiendo completado con excelentes calificaciones el 8vo semestre. Resido en Arequipa, Perú, y cuento con experiencia exitosa en el desarrollo de aplicaciones web y móviles. Además, he contribuido con la redacción y publicación de dos artículos que detallan mis proyectos y logros.",
       "location": {
         "address": "",
         "postalCode": "054",
@@ -16,19 +16,14 @@
       },
       "profiles": [
         {
-          "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
-        },
-        {
-          "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
-        },
-        {
           "network": "GitHub",
           "username": "junkdog505",
           "url": "https://github.com/junkdog505"
+        },
+        {
+          "network": "LinkedIn",
+          "username":"edison-cristian-amézquita-soto-6510742b2",
+          "url": "https://www.linkedin.com/in/edison-cristian-am%C3%A9zquita-soto-6510742b2/"
         }
       ]
     },
@@ -40,17 +35,6 @@
         "startDate": "2021-01-01",
         "endDate": null,
         "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
         "highlights": [
           "Started the company"
         ]
