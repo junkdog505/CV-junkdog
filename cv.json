@@ -29,7 +29,7 @@
     },
     "work": [
       {
-        "name": "Usability of a Mobile Application for Teaching Braille to People with Visual Impairment",
+        "name": "Usabilidad de una aplicación móvil para enseñar braille a personas con discapacidad visual",
         "position": "Líder y Programador del Proyecto",
         "url": "",
         "startDate": "2023-03-11",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "name": "Development of an Electronic Store Peruvian Ceramics in 3D",
+        "name": "Desarrollo de una Tienda Electrónica Cerámica Peruana en 3D",
         "position": "Colaborador y Diseñador del Proyecto",
         "url": "",
         "startDate": "2023-03-11",
@@ -235,15 +235,6 @@
         ]
       },
       {
-        "name": "Gestión del tiempo",
-        "keywords": [
-          "organización",
-          "priorización",
-          "eficiencia",
-          "planificación"
-        ]
-      },
-      {
         "name": "Creatividad",
         "keywords": [
           "pensamiento innovador",
@@ -277,24 +268,6 @@
           "empatía",
           "habilidades sociales"
         ]
-      },
-      {
-        "name": "Pensamiento crítico",
-        "keywords": [
-          "análisis",
-          "evaluación",
-          "resolución de problemas",
-          "toma de decisiones informada"
-        ]
-      },
-      {
-        "name": "Resolución de conflictos",
-        "keywords": [
-          "negociación",
-          "mediación",
-          "tolerancia",
-          "compromiso"
-        ]
       }
     ],    
     "languages": [
@@ -325,9 +298,9 @@
         "description": "Plataforma web con IA para detección de enfermedades",
         "highlights": [
           "Salud",
-          "En desarrollo",
           "API Chat GPT",
-          "Astro"
+          "Astro",
+          "JavaScript"
         ],
         "url": "https://github.com/junkdog505/MediUCSM",
         "github": "https://github.com/junkdog505/MediUCSM"
@@ -337,9 +310,9 @@
         "isActive": true,
         "description": "Aplicación móvil para aprender el lenguaje Braille",
         "highlights": [
-          "Móvil",
-          "En desarrollo",
-          "Java"
+          "Mobile",
+          "Java",
+          "Android"
         ],
         "url": "https://github.com/junkdog505/TIM_Vide",
         "github": "https://github.com/junkdog505/TIM_Vide"
@@ -351,10 +324,43 @@
         "highlights": [
           "JavaScript",
           "Discord",
-          "Media"
-        ],
-        "url": "https://github.com/junkdog505/TIM_Vide",
-        "github": ""
-      }
+          "Media",
+          "Node"
+        ]
+      },
+      {
+        "name": "UCSM Farma",
+        "isActive": false,
+        "description": "Una plataforma web de ventas de productos farmaceuticos con finese académicos",
+        "highlights": [
+          "Flask",
+          "Python",
+          "Mysql",
+          "Tailwind"
+        ]
+      },
+      {
+        "name": "Generador de Códigos QR",
+        "isActive": true,
+        "description": "Una plataforma web que genera y decodifica códigos QR",
+        "highlights": [
+          "Python",
+          "Flask",
+          "QR",
+          "Imagenes",
+          "Texto"
+        ]
+      },
+      {
+        "name": "API: LogIn - SignIn",
+        "isActive": true,
+        "description": "Una API que  permite el registro y el ingreso a un servicio",
+        "highlights": [
+          "NestJS",
+          "JavaScript",
+          "TypeScript",
+          "TypeORM"
+        ]
+      }   
     ]
   }
