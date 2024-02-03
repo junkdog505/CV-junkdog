@@ -6,7 +6,7 @@
       "email": "dev.junkdog@gmail.com",
       "phone": "+51 965915252",
       "url": "https://junkdog.dev",
-      "summary": "Soy un estudiante de Ingeniería de Sistemas, con un sólido historial académico, habiendo completado con excelentes calificaciones el 8vo semestre. Resido en Arequipa, Perú, y cuento con experiencia exitosa en el desarrollo de aplicaciones web y móviles. Además, he contribuido con la redacción y publicación de dos artículos que detallan mis proyectos y logros.",
+      "summary": "Soy un estudiante de Ingeniería de Sistemas, con un sólido historial académico, habiendo completado con excelentes calificaciones el 8vo semestre. Resido en Arequipa, Perú, y cuento con experiencia exitosa en el desarrollo de aplicaciones web y móviles realizadas como proyectos de la carrera. Además, he contribuido con la redacción y publicación de dos artículos que detallan mis proyectos y logros.",
       "location": {
         "address": "",
         "postalCode": "054",
@@ -29,22 +29,34 @@
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
-        "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "name": "Usability of a Mobile Application for Teaching Braille to People with Visual Impairment",
+        "position": "Líder y Programador del Proyecto",
+        "url": "",
+        "startDate": "2023-03-11",
+        "endDate": "2023-06-26",
+        "summary": "Dirigí un proyecto educativo para enseñar braille, orientado a personas con y sin discapacidad visual. El enfoque didáctico buscaba concientizar sobre la importancia de la inclusión.",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "name": "Development of an Electronic Store Peruvian Ceramics in 3D",
+        "position": "Colaborador y Diseñador del Proyecto",
+        "url": "",
+        "startDate": "2023-03-11",
+        "endDate": "2023-06-26",
+        "summary": "Colaboré en un proyecto académico para desarrollar un e-commerce centrado en promover y mejorar la representación de productos de artesanos peruanos ante los clientes. Mi rol consistió en ser el diseñador principal de la página web",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Med IA",
+        "position": "Líder y Programador del Proyecto",
+        "url": "",
+        "startDate": "2023-03-11",
+        "endDate": "2023-06-26",
+        "summary": "Lideré un proyecto académico desarrollando una plataforma web con inteligencia artificial (Chat GPT) para diagnóstico y asesoramiento médico remoto, beneficiando a personas con dificultades de acceso a centros de salud o limitaciones de tiempo",
         "highlights": [
           "Started the company"
         ]
@@ -62,12 +74,13 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
+      "institution": "Universidad Católica de Santa María",
+      "url": "https://www2.ucsm.edu.pe/ciencias-e-ingenierias/ingenieria-de-sistemas/",
       "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "position": "Tercio superior",
+      "studyType": "Bachiller",
+      "startDate": "2020-03-12",
+      "endDate": null,
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -94,91 +107,113 @@
     }],
     "skills": [
       {
+        "name": "Python",
+        "level": "Junior",
+        "keywords": [
+          "Frameworks", "IA", "MicroFrameworks"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Junior",
+        "keywords": [
+          "POO", "CRUD", "Desktop"
+        ]
+      },
+      {
         "name": "HTML",
-        "level": "Master",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
+
       {
         "name": "CSS",
-        "level": "Master",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
         "name": "JavaScript",
-        "level": "Master",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
         "name": "Tailwind",
-        "level": "Avanzado",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
         "name": "TypeScript",
-        "level": "Avanzado",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
         ]
       },
       {
         "name": "Node",
-        "level": "Avanzado",
+        "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
         ]
       },
       {
         "name": "MySQL",
-        "level": "Avanzado",
+        "level": "Junior",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "SQLite",
+        "level": "Junior",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
         ]
       },
       {
         "name": "Git",
-        "level": "Avanzado",
+        "level": "Junior",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente"
         ]
       },
       {
         "name": "GitHub",
-        "level": "Avanzado",
+        "level": "Junior",
         "keywords": [
           "Control de Versiones", "Colaboración", "Código Fuente", "Git"
         ]
       },
       {
-        "name": "Next.js",
-        "level": "Avanzado",
+        "name": "Windows",
+        "level": "Junior",
         "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+          "SO", "Desktop"
         ]
       },
       {
-        "name": "React",
-        "level": "Avanzado",
+        "name": "Linux",
+        "level": "Junior",
         "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+          "SO", "Desktop"
         ]
       }
     ],
     "languages": [
       {
-        "language": "Spanish",
-        "fluency": "Native speaker"
+        "language": "Spañol",
+        "fluency": "Hablado nativamente"
       },
       {
-        "language": "English",
-        "fluency": "Advanced"
+        "language": "Inglés",
+        "fluency": "Básico"
       }
     ],
     "interests": [{
@@ -194,66 +229,37 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Med IA",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Plataforma web con IA para detección de enfermedades",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "Salud",
+          "En desarrollo",
+          "API Chat GPT",
+          "Astro"
         ],
-        "url": "https://mars.codes"
+        "url": "https://github.com/junkdog505/MediUCSM"
       },
       {
-        "name": "AdventJS",
+        "name": "Vide",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Aplicación móvil para aprender el lenguaje Braille",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
-          "JavaScript & TypeScript"
+          "Móvil",
+          "En desarrollo",
+          "Java"
         ],
-        "url": "https://advent.js/dev"
+        "url": "https://github.com/junkdog505/TIM_Vide"
       },
       {
-        "name": "Codember",
-        "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "name": "Bot de Discord",
+        "isActive": false,
+        "description": "Un bot de Discord que funciona de chatbot y reproductor de música",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
-        ],
-        "url": "https://codember.dev"
-      },
-      {
-        "name": "codi.link",
-        "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
-        "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
-        ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+          "JavaScript",
+          "Discord",
+          "Media"
+        ]
       }
     ]
   }
