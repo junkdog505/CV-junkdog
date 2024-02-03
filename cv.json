@@ -36,7 +36,7 @@
         "endDate": "2023-06-26",
         "summary": "Dirigí un proyecto educativo para enseñar braille, orientado a personas con y sin discapacidad visual. El enfoque didáctico buscaba concientizar sobre la importancia de la inclusión.",
         "highlights": [
-          "Started the company"
+          "Artículo en proceso"
         ]
       },
       {
@@ -47,7 +47,7 @@
         "endDate": "2023-06-26",
         "summary": "Colaboré en un proyecto académico para desarrollar un e-commerce centrado en promover y mejorar la representación de productos de artesanos peruanos ante los clientes. Mi rol consistió en ser el diseñador principal de la página web",
         "highlights": [
-          "Started the company"
+          "Artículo en proceso"
         ]
       },
       {
@@ -206,6 +206,97 @@
         ]
       }
     ],
+    "softskills": [
+      {
+        "name": "Resiliencia",
+        "keywords": [
+          "afrontamiento",
+          "adaptabilidad",
+          "superación",
+          "fortaleza emocional"
+        ]
+      },
+      {
+        "name": "Comunicación efectiva",
+        "keywords": [
+          "escucha activa",
+          "expresión clara",
+          "empatía",
+          "asertividad"
+        ]
+      },
+      {
+        "name": "Trabajo en equipo",
+        "keywords": [
+          "colaboración",
+          "cooperación",
+          "apoyo mutuo",
+          "tolerancia"
+        ]
+      },
+      {
+        "name": "Gestión del tiempo",
+        "keywords": [
+          "organización",
+          "priorización",
+          "eficiencia",
+          "planificación"
+        ]
+      },
+      {
+        "name": "Creatividad",
+        "keywords": [
+          "pensamiento innovador",
+          "solución de problemas",
+          "imaginación",
+          "originalidad"
+        ]
+      },  {
+        "name": "Adaptabilidad",
+        "keywords": [
+          "flexibilidad",
+          "ajuste al cambio",
+          "apertura",
+          "resolución en la incertidumbre"
+        ]
+      },
+      {
+        "name": "Liderazgo",
+        "keywords": [
+          "influencia positiva",
+          "toma de decisiones",
+          "motivación",
+          "delegación"
+        ]
+      },
+      {
+        "name": "Inteligencia emocional",
+        "keywords": [
+          "autoconciencia",
+          "autorregulación",
+          "empatía",
+          "habilidades sociales"
+        ]
+      },
+      {
+        "name": "Pensamiento crítico",
+        "keywords": [
+          "análisis",
+          "evaluación",
+          "resolución de problemas",
+          "toma de decisiones informada"
+        ]
+      },
+      {
+        "name": "Resolución de conflictos",
+        "keywords": [
+          "negociación",
+          "mediación",
+          "tolerancia",
+          "compromiso"
+        ]
+      }
+    ],    
     "languages": [
       {
         "language": "Spañol",
@@ -238,7 +329,8 @@
           "API Chat GPT",
           "Astro"
         ],
-        "url": "https://github.com/junkdog505/MediUCSM"
+        "url": "https://github.com/junkdog505/MediUCSM",
+        "github": "https://github.com/junkdog505/MediUCSM"
       },
       {
         "name": "Vide",
@@ -249,7 +341,8 @@
           "En desarrollo",
           "Java"
         ],
-        "url": "https://github.com/junkdog505/TIM_Vide"
+        "url": "https://github.com/junkdog505/TIM_Vide",
+        "github": "https://github.com/junkdog505/TIM_Vide"
       },
       {
         "name": "Bot de Discord",
@@ -259,7 +352,9 @@
           "JavaScript",
           "Discord",
           "Media"
-        ]
+        ],
+        "url": "https://github.com/junkdog505/TIM_Vide",
+        "github": ""
       }
     ]
   }

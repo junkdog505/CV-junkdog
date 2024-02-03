@@ -1,7 +1,7 @@
 ---
 import Section from "@/components/Section.astro";
 
-import { skills } from "@cv"
+import { skills, softskills } from "@cv"
 ---
 
 <Section title="Habilidades - Junior">
@@ -12,6 +12,17 @@ import { skills } from "@cv"
                     <span> {name}</span>
                 </li>
             ))
+        }
+    </ul>
+</Section>
+<Section title="Habilidades Blandas">
+    <ul>
+        {
+            softskills.map(({ name}) => (
+                <li>
+                    <span>{name}</span>
+                </li>
+                ))
         }
     </ul>
 </Section>
