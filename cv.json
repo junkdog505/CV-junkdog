@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Edison Cristian Amézquita Soto",
+      "name": "Amézquita Soto Edison Cristian",
       "label": "Ingeniero de Sistemas",
       "image": "/me.webp",
       "email": "dev.junkdog@gmail.com",
       "phone": "+51 965915252",
       "url": "https://junkdog.dev",
-      "summary": "Soy un estudiante de Ingeniería de Sistemas, con un sólido historial académico, habiendo completado con excelentes calificaciones el 8vo semestre. Resido en Arequipa, Perú, y cuento con experiencia exitosa en el desarrollo de aplicaciones web y móviles realizadas como proyectos de la carrera. Además, he contribuido con la redacción y publicación de dos artículos que detallan mis proyectos y logros.",
+      "summary": "Soy un estudiante de Ingeniería de Sistemas, habiendo completado con éxito el octavo semestre de la carrera con excelentes calificaciones. Resido en Arequipa, Perú, y tengo experiencia en el desarrollo de aplicaciones web. Aunque he adquirido habilidades en este campo, estoy constantemente comprometido con el aprendizaje continuo y ansío la oportunidad de trabajar y ganar experiencia para seguir perfeccionándome en el emocionante mundo del desarrollo web.",
       "location": {
         "address": "",
         "postalCode": "054",
@@ -29,7 +29,7 @@
     },
     "work": [
       {
-        "name": "Usabilidad de una aplicación móvil para enseñar braille a personas con discapacidad visual",
+        "name": "App móvil para aprender Braille",
         "position": "Líder y Programador del Proyecto",
         "url": "",
         "startDate": "2023-03-11",
@@ -40,23 +40,12 @@
         ]
       },
       {
-        "name": "Desarrollo de una Tienda Electrónica Cerámica Peruana en 3D",
-        "position": "Colaborador y Diseñador del Proyecto",
-        "url": "",
-        "startDate": "2023-03-11",
-        "endDate": "2023-06-26",
-        "summary": "Colaboré en un proyecto académico para desarrollar un e-commerce centrado en promover y mejorar la representación de productos de artesanos peruanos ante los clientes. Mi rol consistió en ser el diseñador principal de la página web",
-        "highlights": [
-          "Artículo en proceso"
-        ]
-      },
-      {
-        "name": "Med IA",
+        "name": "Aplicación web médica de consultas ",
         "position": "Líder y Programador del Proyecto",
         "url": "",
         "startDate": "2023-03-11",
         "endDate": "2023-06-26",
-        "summary": "Lideré un proyecto académico desarrollando una plataforma web con inteligencia artificial (Chat GPT) para diagnóstico y asesoramiento médico remoto, beneficiando a personas con dificultades de acceso a centros de salud o limitaciones de tiempo",
+        "summary": "Lideré un proyecto académico desarrollando una plataforma web con inteligencia artificial (Chat GPT) para diagnóstico y asesoramiento médico remoto, beneficiando a personas con dificultades de acceso a centros de salud o limitaciones de tiempo.",
         "highlights": [
           "Started the company"
         ]
@@ -114,10 +103,10 @@
         ]
       },
       {
-        "name": "Java",
+        "name": "PHP",
         "level": "Junior",
         "keywords": [
-          "POO", "CRUD", "Desktop"
+          "Web", "App"  
         ]
       },
       {
@@ -340,9 +329,9 @@
         ]
       },
       {
-        "name": "Generador de Códigos QR",
+        "name": "API: Generador de Códigos QR",
         "isActive": true,
-        "description": "Una plataforma web que genera y decodifica códigos QR",
+        "description": "Un ser vicio que genera y decodifica códigos QR",
         "highlights": [
           "Python",
           "Flask",
